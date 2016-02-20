@@ -1,3 +1,4 @@
+
 # Configure assignments for Princeton University's Algorithms class using Maven
 ### custom checkstyle configuration file
 i forced mavent to respect my checkstyle configuration file. first, forget about the configuration element because i could not get it to work.
